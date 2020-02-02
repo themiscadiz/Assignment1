@@ -91,6 +91,10 @@ Readme template provided by
 * [Cassie Tarakajian](https://cassietarakajian.com/) -- adjunct professor -- [NYU ITP](https://itp.nyu.edu)
 for the Dynamic Web Development Class at ITP
 
+***
+***
+***
+
 * [Creative Commons](https://creativecommons.org/licenses/by/4.0/) for their licensing documentation
 * [Openmoji project](https://www.openmoji.org/library/#search=notebook&emoji=1F4D4) for their glyphs
 * [PurpleBooth's Readme Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
