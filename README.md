@@ -108,6 +108,8 @@ For this first part of the assignment i have a lot of difficulties understanding
 
 After I was able to see the run on github I used the instructions to open a local server. 
 
+**I didn't add pictures of my process because I didn't want to show images of my terminal.**
+
 
 
 <!-- How you built this project - Include images, gifs, and notes here -->
@@ -116,21 +118,46 @@ After I was able to see the run on github I used the instructions to open a loca
 Running website in local server:
 At the beginning of the project i use the Step 4 instructions to run a local server, writing: $ python -m SimpleHTTPServer
 
-However, after I while I notice that for some reason the local server didn't show all the changes that I was making. I decide to use another instructions that I have to create a local server: for this one I used the command: browser-sync start --server -f -w
+However, after I while I notice that for some reason the local server didn't show all the changes that I was making. I decide to use another instructions that I have to create a local server: for this one I used the command: 
+browser-sync start --server -f -w
 
 Not sure why but In this case, the ip address is 3000 and the local server uploaded each time that I save the code. 
+
+**HTML and CSS**
+Fot the development of the Net Art website I decided to create a viusual representation of of each part of the  song "Flower" by Deerhoof. I started the creation of the website from the html, and when I felt that I have something that I can work on, I started the the css file.
+I created an additional file where I have separeted the main.css file form the html. This help me to feel more organize and experiment better with the style without affect the html.
+
+In the html I experiment with the creation of div, paragraph, headers, ordered and unordered list, links to pictures, videos, navigation and id.
+
+In the css I tried a different font from Google Font, different selectors, property such as hover, display, float and others.
 
 
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
 
-the biggest difficulties that I encounter in this pro
+The biggest difficulties that I encounter in this process was to **create the ssh key**. 
+The [github guideline] (https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) part from the idea that you already are familiarize with github, terminal and development process. At first i dind't understand the reason of a ssh key. 
+Step: Adding your SSH key to the ssh-agent
+To  modify your ~/.ssh/config file, it is not clear what are the step that you have to do. After looking for help, I encounter that I have to write:
+$ nano ~/.ssh/config
+
+and then:
+
+Host *
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_rsa
+  
+  **HTML and CSS challenges**
+Because html and css is very straight foward it was relativetly easy follow, book examples, or tutorials about how to make parts of the html or create the style on css.
+However I have difficulties trying to understand the logic of **display**, how to fix indentation or margins on css.
 
 <!-- Any questions you have -->
 ## Questions
+1. How to better use "display" on css? Is there a difference with Flexbox?
 
 <!-- References for resources and inspiration -->
 ## References
 
-* Author First Name, Author Last Name. [Link]()
-* Author First Name, Author Last Name. [Link]()
+* Jon, Duckett. [HTML & CSS: Design and Build Web Sites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+<!--* Author First Name, Author Last Name. [Link]()-->
