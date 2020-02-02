@@ -106,6 +106,8 @@ In this assignment I created a website using html/css to illustrate part of a De
 The first part of the assignment was to use Visual Studio and upload different version to Github.
 I had a lot of difficulties understanding the terminal flow such as: how to create a file through the terminal and open in Visual studio. Because at first I tried to make the step using my notes from the class, I missed information and I wasn't able to open the file. Then, I followed [“Your First Website Guide”] (https://github.com/itp-dwd/2020-spring/blob/master/guides/your-first-website-guide.md) from the class on github and that helped me to complete the information. After I open the file in visual Studio, I copied the template from the first website example:
 
+![Logo](https://github.com/themiscadiz/Assignment1/blob/master/images/html1.png)
+
 After I was able to see it run in github I used the instructions to open a local server. 
 
 **I didn't add pictures of my process because I didn't want to show images of my terminal.**
@@ -126,6 +128,7 @@ Not sure why but in this case, the ip address is 3000 and the local server uploa
 
 **HTML and CSS**
 Fot the development of the Net Art website I decided to create a visual representation of each part of the song "Flower" by Deerhoof. I started the creation of the website from the html, and when I felt that I have something that I can work on, I started the the css file.
+![Logo](https://www.openmoji.org/data/color/svg/1F4D4.svg)
 I created an additional file where I have separeted the main.css file form the html. This helped me to feel more organized and experiment better with the style without affecting the html.
 
 In the html I experimented with the creation of div, paragraph, headers, ordered and unordered list, links to pictures, videos, navigation and id.
