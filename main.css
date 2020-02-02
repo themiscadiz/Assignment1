@@ -32,11 +32,11 @@ body {
 
 #Flower_row{
     clear: both;
-    background-color: rgb(236, 235, 138);
 }
 
 #flowerimg{
     width: 50%;
+    float: left;
 	height: auto;
 	margin-left: 0%;
 }
@@ -45,7 +45,6 @@ body {
     padding-top: 75px;
     text-align: center;
     font-weight: 600;
-    font-family: 'Open Sans', sans-serif;
 	color:  rgb(0, 0, 0);
     width: 50%;
 	height: auto;
@@ -64,10 +63,10 @@ ul {
 
 #power_row{
     clear: both;
-    background-color: rgb(236, 235, 138);
 }
 
 #powerimg{
+    float: right;
     width: 50%;
 	height: auto;
 	margin-right: 0%;
@@ -77,7 +76,6 @@ ul {
     padding-top: 75px;
     text-align: center;
     font-weight: 600;
-    font-family: 'Open Sans', sans-serif;
 	color:  rgb(0, 0, 0);
     width: 50%;
 	height: auto;
@@ -86,6 +84,9 @@ ul {
 
 ol {
     list-style-type: none;
+}
+#nav-a-style {
+    flex-direction:column;
 }
  nav a:hover {	
     background-color: rgb(89, 86, 252);
