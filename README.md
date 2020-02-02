@@ -104,9 +104,7 @@ for the Dynamic Web Development Class at ITP
 
 In this assignment I created a website using html/css to illustrate part of a Deerhoof song, Flower. 
 The first part of the assignment was to use Visual Studio and upload different version to Github.
-I had a lot of difficulties understanding the terminal flow such as: how to create a file through the terminal and open in Visual studio. Because at first I tried to make the step using my notes from the class, I missed information and I wasn't able to open the file. Then, I followed [“Your First Website Guide”] (https://github.com/itp-dwd/2020-spring/blob/master/guides/your-first-website-guide.md) from the class on github and that helped me to complete the information. After I open the file in visual Studio, I copied the template from the first website example:
-
-![Logo](https://github.com/themiscadiz/Assignment1/blob/master/images/html1.png)
+I had a lot of difficulties understanding the terminal flow such as: how to create a file through the terminal and open in Visual studio. Because at first I tried to make the step using my notes from the class, I missed information and I wasn't able to open the file. Then, I followed [“Your First Website Guide”] (https://github.com/itp-dwd/2020-spring/blob/master/guides/your-first-website-guide.md) from the class on github and that helped me to complete the information. After I open the file in visual Studio, I copied the template from the first website example.
 
 After I was able to see it run in github I used the instructions to open a local server. 
 
